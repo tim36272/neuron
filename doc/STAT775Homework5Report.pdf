@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1,width=device-width">
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)">
+  <meta http-equiv="Content-Language" content="en">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+    <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+  <meta name="theme-color" content="#f5f5f5">
+  <meta name="selected-link" value="repo_source">
+
+      <meta name="google-analytics" content="UA-3769691-2">
+
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="D03627E8:488A:29991E5:5814C546" name="octolytics-dimension-request_id" />
+<meta content="mobile" name="octolytics-dimension-device" />
+<meta content="2898112" name="octolytics-dimension-user_id" /><meta content="lukefrasera" name="octolytics-dimension-user_login" /><meta content="52048211" name="octolytics-dimension-repository_id" /><meta content="lukefrasera/cs775Homework" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="52048211" name="octolytics-dimension-repository_network_root_id" /><meta content="lukefrasera/cs775Homework" name="octolytics-dimension-repository_network_root_nwo" />
+
+<meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
+
+
+
+  <meta class="js-ga-set" name="dimension1" content="Logged Out">
+    <meta class="js-ga-set" name="dimension3" content="mobile">
+
+
+
+
+  <title>cs775Homework/STAT775Homework5Report.pdf at master · lukefrasera/cs775Homework · GitHub</title>
+
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/mobile-96931fa390464de7c494a95d20dd6f3a653f123d50b4b7349554c65231dfd36f.css" integrity="sha256-lpMfo5BGTefElKldIN1vOmU/Ej1QtLc0lVTGUjHf028=" media="all" rel="stylesheet" />
+</head>
+<body class="">
+  <header class="nav-bar">
+    <div class="nav-bar-inner ">
+      <button type="button" class="header-button header-nav-button touchable js-show-global-nav" data-ga-click="Mobile, tap, location:header; text:Hamburger">
+        <svg aria-hidden="true" class="octicon octicon-three-bars" height="24" version="1.1" viewBox="0 0 12 16" width="18"><path d="M11.41 9H.59C0 9 0 8.59 0 8c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zm0-4H.59C0 5 0 4.59 0 4c0-.59 0-1 .59-1H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1h.01zM.59 11H11.4c.59 0 .59.41.59 1 0 .59 0 1-.59 1H.59C0 13 0 12.59 0 12c0-.59 0-1 .59-1z"></path></svg>
+      </button>
+
+      <div class="nav-bar-title-text">
+            <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"></path></svg>
+  <strong><a href="/lukefrasera">lukefrasera</a></strong>
+  /
+  <strong><a href="/lukefrasera/cs775Homework">cs775Homework</a></strong>
+
+      </div>
+
+      
+
+    </div>
+
+
+    <nav class="nav-bar-tabs ">
+      <ul>
+          <li>
+            <a href="/explore" data-ga-click="Mobile, tap, location:header; text:Explore">
+              <svg aria-hidden="true" class="octicon octicon-telescope" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M8 9l3 6h-1l-2-4v5H7v-6l-2 5H4l2-5 2-1zM7 0H6v1h1V0zM5 3H4v1h1V3zM2 1H1v1h1V1zM.63 9a.52.52 0 0 0-.16.67l.55.92c.13.23.41.31.64.2l1.39-.66-1.16-2-1.27.86.01.01zm7.89-5.39l-5.8 3.95L3.95 9.7l6.33-3.03-1.77-3.06h.01zm4.22 1.28l-1.47-2.52a.51.51 0 0 0-.72-.17l-1.2.83 1.84 3.2 1.33-.64c.27-.13.36-.44.22-.7z"></path></svg>
+              Explore
+            </a>
+          </li>
+        <li>
+            <a href="/login?return_to=%2Flukefrasera%2Fcs775Homework%2Fblob%2Fmaster%2Fhw_005%2FSTAT775Homework5Report.pdf" data-ga-click="Mobile, tap, location:header; text:Sign in">
+              <svg aria-hidden="true" class="octicon octicon-sign-in" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M7 6.75V12h4V8h1v4c0 .55-.45 1-1 1H7v3l-5.45-2.72c-.33-.17-.55-.52-.55-.91V1c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v3h-1V1H3l4 2v2.25L10 3v2h4v2h-4v2L7 6.75z"></path></svg>
+              Sign in
+            </a>
+        </li>
+        
+      </ul>
+    </nav>
+  </header>
+
+
+  <div id="js-flash-container">
+</div>
+
+
+    
+
+
+
+
+<div class="reponav-wrapper">
+  <nav class="reponav js-reponav"
+       itemscope
+       itemtype="http://schema.org/BreadcrumbList">
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a href="/lukefrasera/cs775Homework" aria-selected="true" class="js-selected-navigation-item selected reponav-item" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /lukefrasera/cs775Homework" itemprop="url">
+        <span itemprop="name">Code</span>
+        <meta itemprop="position" content="1">
+</a>    </span>
+
+      <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+        <a href="/lukefrasera/cs775Homework/issues" class="js-selected-navigation-item reponav-item" data-selected-links="repo_issues repo_labels repo_milestones /lukefrasera/cs775Homework/issues" itemprop="url">
+          <span itemprop="name">Issues</span>
+          <span class="counter">0</span>
+          <meta itemprop="position" content="2">
+</a>      </span>
+
+    <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
+      <a href="/lukefrasera/cs775Homework/pulls" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls /lukefrasera/cs775Homework/pulls" itemprop="url">
+        <span itemprop="name">Pull requests</span>
+        <span class="counter">0</span>
+        <meta itemprop="position" content="3">
+</a>    </span>
+
+    <a href="/lukefrasera/cs775Homework/pulse" class="js-selected-navigation-item reponav-item" data-selected-links="pulse /lukefrasera/cs775Homework/pulse">
+      Pulse
+</a>
+  </nav>
+</div>
+
+
+
+
+<div class="breadcrumb blob-breadcrumb">
+  <label for="blob-history-checkbox" class="blob-history-label">
+    <svg aria-hidden="true" class="octicon octicon-history" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M8 13H6V6h5v2H8v5zM7 1C4.81 1 2.87 2.02 1.59 3.59L0 2v4h4L2.5 4.5C3.55 3.17 5.17 2.3 7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-.34.03-.67.09-1H.08C.03 7.33 0 7.66 0 8c0 3.86 3.14 7 7 7s7-3.14 7-7-3.14-7-7-7z"></path></svg>
+  </label>
+  <span class="filetype-icon"><svg aria-hidden="true" class="octicon octicon-file-pdf" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M8.5 1H1a1 1 0 0 0-1 1v12a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V4.5L8.5 1zM1 2h4a.68.68 0 0 0-.31.2 1.08 1.08 0 0 0-.23.47 4.22 4.22 0 0 0-.09 1.47c.06.609.173 1.211.34 1.8A21.78 21.78 0 0 1 3.6 8.6c-.5 1-.8 1.66-.91 1.84a7.16 7.16 0 0 0-.69.3 4.19 4.19 0 0 0-1 .64V2zm4.42 4.8a5.65 5.65 0 0 0 1.17 2.09c.275.237.595.417.94.53-.64.09-1.23.2-1.81.33a12.22 12.22 0 0 0-1.81.59c-.587.243.22-.44.61-1.25.365-.74.67-1.51.91-2.3l-.01.01zM11 14H1.5a.74.74 0 0 1-.17 0 2.12 2.12 0 0 0 .73-.44 10.14 10.14 0 0 0 1.78-2.38c.31-.13.58-.23.81-.31l.42-.14c.45-.13.94-.23 1.44-.33s1-.16 1.48-.2a8.65 8.65 0 0 0 1.39.53c.403.11.814.188 1.23.23h.38V14H11zm0-4.86a3.74 3.74 0 0 0-.64-.28 4.22 4.22 0 0 0-.75-.11c-.411.003-.822.03-1.23.08a3 3 0 0 1-1-.64 6.07 6.07 0 0 1-1.29-2.33c.111-.661.178-1.33.2-2 .02-.25.02-.5 0-.75a1.05 1.05 0 0 0-.2-.88.82.82 0 0 0-.61-.23H8l3 3v4.14z"></path></svg></span>
+  <span class="js-path-segment"><a href="/lukefrasera/cs775Homework/tree/master/hw_005"><span>hw_005</span></a></span><span class="separator">/</span><strong class="final-path">STAT775Homework5Report.pdf</strong>
+</div>
+
+<input id="blob-history-checkbox"
+       class="js-blob-history-checkbox blob-history-checkbox"
+       type="checkbox"
+       data-url="/lukefrasera/cs775Homework/latest_commit/master/hw_005/STAT775Homework5Report.pdf">
+
+<div class="blob-history">
+  <a href="/lukefrasera/cs775Homework/commits/master/hw_005/STAT775Homework5Report.pdf" class="js-blob-history-link">
+    Loading latest commit…
+</a></div>
+
+  <div class="blob-file-content js-file-line-container">
+    <p class="blob-file-content-blankslate">This file is too big to show. Sorry!</p>
+  </div>
+
+
+  <footer class="clearfix">
+    <div class="container">
+      <a href="#"><svg aria-hidden="true" class="octicon octicon-mark-github" height="32" version="1.1" viewBox="0 0 16 16" width="32"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
+
+      <ul class="clearfix">
+        <li>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/site/mobile_preference" class="js-mobile-preference-form" data-form-nonce="db5728efb24e5e5bd5b357102dd803d33e677272" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="hUTZzKOkyQiuwPr5yw+SFBkA9vCIptfkyqjoJwg1F68azFW0Jkawwd15nfAZ/kWJa26+hLOLkn/PSK60OhaxFw==" /></div>
+            <input type="hidden" name="mobile" value="false">
+            <input type="hidden" name="anchor" class="js-mobile-preference-anchor-field">
+
+            <button type="submit" class="switch-to-desktop" data-ga-click="Mobile, switch to desktop, switch button">
+              Desktop version
+            </button>
+</form>        </li>
+
+      </ul>
+    </div>
+  </footer>
+  
+  <script async="async" crossorigin="anonymous" integrity="sha256-r2VuvDl5XMhozvUHfJRPJ3FwgRb3EAPLKpbRegN9YGk=" src="https://assets-cdn.github.com/assets/mobile-af656ebc39795cc868cef5077c944f2771708116f71003cb2a96d17a037d6069.js"></script>
+</body>
+</html>
